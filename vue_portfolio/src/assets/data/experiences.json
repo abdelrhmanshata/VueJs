@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "role": "Full-stack Web Developer",
+    "company": "Intlaq",
+    "date": "Nov, 2024 - Present",
+    "logo": "src/assets/images/intlaq.png"
+  },
+  {
+    "id": 2,
+    "role": "Backend Developer",
+    "company": "SmartSync (Internship)",
+    "date": "Sept, 2024 - Nov, 2024",
+    "logo": "src/assets/images/smart_sync.png"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Android",
+    "width": "85%"
+  },
+  {
+    "id": 2,
+    "name": "Django",
+    "width": "80%"
+  },
+  {
+    "id": 3,
+    "name": "PostgreSQL",
+    "width": "75%"
+  },
+  {
+    "id": 4,
+    "name": "Node JS",
+    "width": "70%"
+  }
+]

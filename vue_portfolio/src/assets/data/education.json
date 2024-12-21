@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "School": "Information Technology Institute",
+    "program": "Diploma In Full Stack Web",
+    "year": "Nov, 2023 - March, 2024"
+  },
+  {
+    "id": 2,
+    "School": "Zagazig University",
+    "program": "Bachelor's Degree, Faculty of Computer and information",
+    "year": "Sept, 2017 - July, 2021"
+  }
+]
